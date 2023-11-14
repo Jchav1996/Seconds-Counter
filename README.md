@@ -1,4 +1,4 @@
-# link is [Here](https://jchav1996.github.io/Seconds-Counter/)
+# link is [Here](https://seconds-counter-one.vercel.app/)
 
 # React + Vite
 
